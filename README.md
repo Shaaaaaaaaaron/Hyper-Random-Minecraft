@@ -1,8 +1,13 @@
 ![https://i.imgur.com/AQOPWtC.png](https://i.imgur.com/AQOPWtC.png)
+
+**[Download the datapack](https://github.com/Shaaaaaaaaaron/Hyper-Random-Minecraft/releases)**
+
 If you have any other idea to add for the randomizer list, you can suggest it! (Discarded ideas: Block Drops Randomizer, Mob Drops Randomizer, and Recipe Randomizer)
 ## About
 This datapack is a combination of 8 different random packs I made, and it's customizable. It gives a challenging and different way to play the game.
 Info about the different randomizers below!
+
+[Planet Minecraft post](https://www.planetminecraft.com/data-pack/hyper-random-minecraft-minecraft-but-is-completely-random-8-different-randomizers/) (Support is appreciated) <3
 
 ## List of randomizers
 
